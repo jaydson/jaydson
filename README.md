@@ -1,4 +1,4 @@
-![Jaydson's header](./.github/assets/jaydson-github.png)
+![Jaydson's header](https://raw.githubusercontent.com/jaydson/jaydson/master/.github/assets/jaydson-github.png)
 
 ## Basic info
 __Name__: Jaydson Gomes  
