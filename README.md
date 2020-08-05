@@ -1,4 +1,4 @@
-![Jaydson's header](https://raw.githubusercontent.com/jaydson/jaydson/master/.github/assets/jaydson-github.png)
+![Jaydson's header](https://jaydson.com/images/2019/09/jaydson-braziljs-conf-2019.jpg)
 
 ## Basic info
 __Name__: Jaydson Gomes  
